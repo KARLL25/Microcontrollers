@@ -3,3 +3,7 @@
 
 # Схема состояния машинки
 ![Схема состояния машинки](scheme.jpg)
+
+
+https://github.com/KARLL25/Microcontrollers/assets/51706588/ffb26691-e835-4110-b8b7-3721be21f744
+

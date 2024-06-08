@@ -17,4 +17,4 @@
 
 ## Итоговый вид
 
-![alt text](finals.jpg)
+![alt text](final.jpg)
